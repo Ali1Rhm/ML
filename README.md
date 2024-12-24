@@ -1,2 +1,1 @@
-# ML
- Machine learning projects
+Here I store projects related to machine learning lessons.
